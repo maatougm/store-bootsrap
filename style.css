@@ -1,0 +1,19 @@
+#title{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;}
+
+.img-with-text {
+        text-align: justify;
+        width: [width of img];
+    }
+    
+.img-with-text img {
+        display: block;
+        margin: 0 auto;
+        
+        
+    }
